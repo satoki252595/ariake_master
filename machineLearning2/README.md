@@ -1,0 +1,1 @@
+# ariake_model
